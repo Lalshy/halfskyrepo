@@ -1,5 +1,6 @@
 @charset "utf-8";
-@import url("tablet.css") screen and (min-width:359px) and (max-width:767px);
+@mediascreen and (min-width:359px);
+{
 /* CSS Document */
 /*css reset to make things look the same across all browsers*/
 * {
@@ -366,4 +367,4 @@ social > li 	{
 	margin-top:-75px;
 	box-sizing: border-box;	
 }
-	
+}
