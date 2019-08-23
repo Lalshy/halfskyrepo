@@ -1,5 +1,5 @@
 @charset "utf-8";
-@mediascreen and (min-width:359px);
+@media and (min-width:359px);
 {
 /* CSS Document */
 /*css reset to make things look the same across all browsers*/
