@@ -128,8 +128,7 @@ nav > ul > li > a {
 /*hero images*/
 .hero {
 	background-image:url("half-the-sky-image.jpg");
-    max-width:1400px;
-	height:610px;
+ height:610px;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -150,7 +149,6 @@ img.sewing, .girlschool {
 
 .herotext {
 		width:33%;
-	  	position: absolute;
 	 	top: 20%;
 	 	left:20%;
 		text-align: left;
