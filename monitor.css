@@ -17,7 +17,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 	background-size:cover;
 	max-width:1200px;
 	height:auto;
-	margin:auto;
+	margin:0 auto;
 }
 
 main {
@@ -149,8 +149,8 @@ img.sewing, .girlschool {
 .herotext {
 		width:33%;
 	  	position: absolute;
-	 	top: 60%;
-	 	left:25%;
+	 	top: 40%;
+	 	left:20%;
 		transform: translate(-50%, -50%);
 		text-align: left;
 }
