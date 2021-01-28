@@ -15,11 +15,8 @@ background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0) 0
 background: radial-gradient(ellipse at center, rgba(255,255,255,0) 0%,rgba(255,255,255,0.74) 51%,rgba(252,253,254,0.75) 52%,rgba(176,213,241,0.6) 74%,rgba(125,185,232,0.54) 89%,rgba(125,185,232,0.5) 98%,rgba(142,193,241,0.5) 99%,rgba(159,200,249,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#809fc8f9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 	background-size:cover;
-	width:100%;
+	max-width:1200px;
 	height:auto;
-	/*background-image:url(seamless-background-tile.jpg);
-	background-size: cover;*/
-	/*Preferred the gradient background aesthetically, hence commenting out bkgd image*/
 }
 
 main {
