@@ -17,6 +17,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 	background-size:cover;
 	max-width:1200px;
 	height:auto;
+	margin:auto;
 }
 
 main {
