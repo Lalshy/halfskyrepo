@@ -22,7 +22,7 @@ body {
 }
 
 main {
-	width:1100px;
+	width:1400px;
 	margin:auto;
 	background-color:white;
 	overflow: hidden;
@@ -128,7 +128,8 @@ nav > ul > li > a {
 /*hero images*/
 .hero {
 	background-image:url("half-the-sky-image.jpg");
-    height: 610px;
+    max-width:1400px;
+	height:auto;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
