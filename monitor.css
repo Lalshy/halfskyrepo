@@ -129,7 +129,7 @@ nav > ul > li > a {
 .hero {
 	background-image:url("half-the-sky-image.jpg");
     max-width:1400px;
-	height:auto;
+	height:610px;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
